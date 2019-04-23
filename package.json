@@ -1,0 +1,42 @@
+{
+  "name": "react-native-lottie-modal",
+  "version": "1.0.0",
+  "description": "A simple but highly customizable library for displaying Lottie animations in an appearing and disappearing fullscreen modal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epurban/react-native-lottie-modal.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react-native-lottie-modal",
+    "lottie",
+    "modal",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "animation"
+  ],
+  "author": "Edward Urban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epurban/react-native-lottie-modal/issues"
+  },
+  "homepage": "https://github.com/epurban/react-native-lottie-modal#readme",
+  "peerDependencies": {
+    "expo": "^32.0.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
+}
