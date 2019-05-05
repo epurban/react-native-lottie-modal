@@ -30,11 +30,9 @@
     "url": "https://github.com/epurban/react-native-lottie-modal/issues"
   },
   "homepage": "https://github.com/epurban/react-native-lottie-modal#readme",
-  "peerDependencies": {
-    "expo": "^32.0.0"
-  },
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "expo": "^32.0.0"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.53.1"
